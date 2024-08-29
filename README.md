@@ -11,9 +11,8 @@ This project demonstrates how to use `UICollectionView` and `UIImagePickerContro
 
 ## Screenshots
 
-![Screenshot 1]([https://i.imgur.com/ThP13Bf.png](https://i.ibb.co/1qPYWXR/IMG-0984.jpg](https://github.com/Aqib114/Upload_Image_In_CollectionView/issues/1#issue-2493732691)))
-![Screenshot 2](https://i.imgur.com/9T1m54y.png)
-![Screenshot 3](https://i.imgur.com/wJwwyc5.png)
+![Screenshot](https://user-images.githubusercontent.com/yourusername/issue_number/screenshot.png)
+
 
 ## Requirements
 
