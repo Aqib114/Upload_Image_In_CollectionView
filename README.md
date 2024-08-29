@@ -1,4 +1,3 @@
-Here's a sample `README.md` for your GitHub repository `Upload_Image_In_CollectionView`:
 
 ---
 
@@ -78,4 +77,3 @@ For any questions or feedback, please contact [maqibmehmood42@example.com](mailt
 
 ---
 
-Replace `link_to_your_screenshot` with the actual URL or path to a screenshot of your app, and adjust other placeholders as needed.
