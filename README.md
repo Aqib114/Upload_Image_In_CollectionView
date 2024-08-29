@@ -9,11 +9,6 @@ This project demonstrates how to use `UICollectionView` and `UIImagePickerContro
 - **UIImagePickerController**: Allows users to select images from the camera or photo library.
 - **Dynamic Cell Management**: Moves the "Add Image" cell to the next position after an image is selected.
 
-## Screenshots
-
-![Screenshot]([[https://user-images.githubusercontent.com/yourusername/issue_number/screenshot.png](https://github.com/Aqib114/Upload_Image_In_CollectionView/issues/1#issue-2493732691)](https://private-user-images.githubusercontent.com/140627482/362588343-65340232-161f-4c48-a0f5-b01b021a56a3.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ5MTkwNDksIm5iZiI6MTcyNDkxODc0OSwicGF0aCI6Ii8xNDA2Mjc0ODIvMzYyNTg4MzQzLTY1MzQwMjMyLTE2MWYtNGM0OC1hMGY1LWIwMWIwMjFhNTZhMy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyOVQwODA1NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZjhiM2FlYmMwNmUxYTU4NjA1Y2JiODliNjc0OTJiMjY4Y2Y4MTFlNjRkMDUwMDYxZjY3MTQ0ZGRmMzU3YjBkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.awD2g48mf0SrrIiOwpc6aS3Cq825_tz3asWnNpWQFQY
-))
-
 
 ## Requirements
 
