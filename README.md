@@ -13,7 +13,7 @@ This project demonstrates how to use `UICollectionView` and `UIImagePickerContro
 
 ## Screenshots
 
-![Screenshot]([link_to_your_screenshot](https://ibb.co/ThP13Bf))
+![Screenshot]((https://ibb.co/ThP13Bf))
 
 ## Requirements
 
