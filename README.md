@@ -1,6 +1,4 @@
 
----
-
 # Upload_Image_In_CollectionView
 
 This project demonstrates how to use `UICollectionView` and `UIImagePickerController` in Swift with UIKit for iOS development. The app allows users to upload images from their camera or photo library into a collection view. The initial cell provides an "Add Image" option, and upon selecting an image, it moves to the next cell position.
@@ -13,8 +11,9 @@ This project demonstrates how to use `UICollectionView` and `UIImagePickerContro
 
 ## Screenshots
 
-![Screenshot]([(https://ibb.co/ThP13Bf)](https://imgur.com/a/WDg8A3x)])
-[https://imgur.com/a/WDg8A3x]
+![Screenshot 1](https://i.imgur.com/ThP13Bf.png)
+![Screenshot 2](https://i.imgur.com/9T1m54y.png)
+![Screenshot 3](https://i.imgur.com/wJwwyc5.png)
 
 ## Requirements
 
@@ -70,11 +69,8 @@ This project demonstrates how to use `UICollectionView` and `UIImagePickerContro
 - **ViewController.swift**: Handles the collection view setup, image picking, and cell management.
 - **CustomImageCell.swift**: Custom UICollectionViewCell for displaying images.
 
-
-
 ## Contact
 
 For any questions or feedback, please contact [maqibmehmood42@example.com](mailto:maqibmehmood42@example.com).
-
----
+```
 
